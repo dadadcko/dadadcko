@@ -1,4 +1,4 @@
-# Hello there! <img src="https://raw.githubusercontent.com/dadadcko/dadadcko/main/wave.gif" width="30px">
+# Hello there! <img src="https://raw.githubusercontent.com/dadadcko/dadadcko/main/wave.gif" width="30px" height="30px">
 
 My name is **Daniel** and I'm based in Kosice, Slovakia.
 
