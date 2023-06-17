@@ -18,6 +18,7 @@ As a hobby, together with my team we are occasionally attending various hackatho
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7)
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=5d2b90)
+![](https://img.shields.io/badge/Editor-JetBrains_Rider-informational?style=flat&logo=rider&logoColor=white&color=ff7649)
 
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F0DB4F)
