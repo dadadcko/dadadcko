@@ -2,9 +2,7 @@
 
 My name is **Daniel** and I'm based in Kosice, Slovakia.
 
-Primarily, I'm a CS student at [Technical university of Kosice](http://fei.tuke.sk/en).
-
-Also currently working as Application Developer at Deutsche Telekom IT Solutions Slovakia.
+I'm currently working as Senior Application Developer at Deutsche Telekom IT Solutions Slovakia.
 
 As a hobby, together with my team we are occasionally attending various hackathons. We have already won 2 of them, including: 
 - The hackathon 2021 as best health project with our system called [Medique](https://devpost.com/software/medique),
