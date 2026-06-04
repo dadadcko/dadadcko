@@ -2,7 +2,7 @@
 
 My name is **Daniel** and I'm based in Kosice, Slovakia.
 
-I'm currently working as Senior Application Developer at Deutsche Telekom IT Solutions Slovakia.
+I'm currently working as Lead Software Engineer at Caterpillar Inc.
 
 As a hobby, together with my team we are occasionally attending various hackathons. We have already won 2 of them, including: 
 - The hackathon 2021 as best health project with our system called [Medique](https://devpost.com/software/medique),
